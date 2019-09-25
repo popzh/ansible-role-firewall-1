@@ -24,3 +24,5 @@ galaxy_info:
     - iptables
     - tcp
     - security
+    - ufw
+    - firewalld
